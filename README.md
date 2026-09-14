@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm M. Mohid Muddassar 👋
 
-<!--
-**mohid00789/mohid00789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### E-Commerce & Shopify Specialist | Web Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create professional e-commerce stores and digital experiences with a focus on Shopify store setup, store design, product listing, and online branding.
+
+## 🚀 What I Do
+
+- 🛍️ Shopify Store Setup
+- 🎨 E-Commerce Store Design
+- 📦 Product Listing & Management
+- 🌐 Website Design
+- 📱 Digital Branding
+- 🖼️ Canva & Graphic Design
+- 📊 E-Commerce Solutions
+
+## 🛠️ Skills & Tools
+
+- Shopify
+- Canva
+- HTML & CSS
+- E-Commerce
+- Product Research
+- Product Listing
+- Digital Marketing
+
+## 📂 Featured Project
+
+### 🧴 Dreem Skincare
+
+A professional skincare e-commerce store created using Shopify.
+
+**Focus:** E-Commerce | Shopify | Store Design | Product Listing
+
+More details coming soon...
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in e-commerce projects, Shopify stores, web design, and freelance opportunities.
+
+**M. Mohid Muddassar**
