@@ -20,7 +20,7 @@ I create professional e-commerce stores and digital experiences with a focus on 
 
 - Shopify
 - Canva
-- HTML & CSS
+- HTML 
 - E-Commerce
 - Product Research
 - Product Listing
