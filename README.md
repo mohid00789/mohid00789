@@ -75,6 +75,13 @@ Currently pursuing my **O Levels at Beaconhouse**, I am developing my technical,
 ## 🧴 Zarnab — Skincare E-Commerce Store
 
 **Zarnab** is a skincare-focused e-commerce store built on Shopify, designed to provide a modern, organized, and customer-friendly online shopping experience.
+### 🔗 Project Repository
+
+[View Zarnab Project on GitHub →](https://github.com/mohid00789/zarnab-skincare-store)
+
+### 🛒 Live Store
+
+[Visit Zarnab Skincare Store →](https://zarnab.myshopify.com/)
 
 ### 💼 My Role
 
